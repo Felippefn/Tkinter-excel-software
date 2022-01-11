@@ -13,4 +13,4 @@
 Here you can, select specific columns to a different sheet or file, you choose. Also, you can visualize before you save.<br><br>
 <img src="https://cdn.discordapp.com/attachments/816862799530688542/930505590768283729/tkinter_4.png"  width="800" height="500"/>
 
-<h5><img src="https://img.icons8.com/emoji/48/000000/warning-emoji.png"/><br> The project is still in progress, if you have any feedbacks or problems, please, let me know <br>Thank you for checking and HAVE FUN!</h5>
+<h5><img src="https://img.icons8.com/emoji/48/000000/warning-emoji.png"/><br> The project is still in progress, if you have any feedbacks or problems, please, let me know. <br>Thank you for checking and HAVE FUN!</h5>
